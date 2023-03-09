@@ -1,0 +1,18 @@
+/* BASIC STYLES HERE */
+.drink-img {
+    height: 30vh;
+    width: 15vw;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+.drink-img:hover {
+    border: white solid 3px;
+    cursor: pointer;
+}
+
+.by-light {
+    border-bottom: solid 8px;
+    border-top: solid 8px;
+}
